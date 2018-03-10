@@ -1,0 +1,14 @@
+.noPadding { 
+	padding: 0!important; 
+}
+.pad-10 {
+	padding: 10px!important;
+}
+.navbar button {
+	position: relative;
+	right: 15px;
+	top: 5px;
+}
+#ourMenu {
+	padding: 30px 0;
+}
